@@ -202,7 +202,7 @@ if(isset($_POST['empsub1']))
                 </div>
                 </div>
 
-                <<div class="row">
+               <div class="row">
                 <div class="col-sm-4">
                   <div class="panel panel-white no-radius text-center">
                     <div class="panel-body" >
